@@ -14,3 +14,11 @@
 #container div:hover {
     background-color: blue;
 }
+
+.trail {
+    background-color: blue;
+}
+
+.invisible {
+    display: none;
+}
